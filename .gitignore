@@ -1,0 +1,5 @@
+build/
+.venv/
+scans/
+sd_images/
+__pycache__/

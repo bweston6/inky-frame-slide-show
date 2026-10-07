@@ -1,0 +1,578 @@
+{
+  "schema": "inkyframe-palette/1",
+  "display": "Inky Frame 7.3 Gallery Palette",
+  "created": "2026-08-24T23:36:31+00:00",
+  "measured": true,
+  "white_point": "D50",
+  "dither_space_default": "oklab",
+  "device_notes": {
+    "orange_update_pen": [
+      6,
+      255,
+      109,
+      0
+    ],
+    "orange_png_code": [
+      255,
+      109,
+      0
+    ],
+    "clean_index_not_addressable_via_pngdec": true
+  },
+  "pens": [
+    {
+      "index": 0,
+      "name": "black",
+      "png_code": [
+        0,
+        0,
+        0
+      ],
+      "native_rgb": [
+        0,
+        0,
+        0
+      ],
+      "lab": [
+        17.797,
+        15.0,
+        -20.0
+      ],
+      "oklab": [
+        0.2997,
+        0.0379,
+        -0.0555
+      ],
+      "spread_de00": 3.48,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 0,
+          "rgb": [
+            31.0,
+            23.0,
+            42.0
+          ],
+          "lab": [
+            18.095,
+            17.5,
+            -22.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 0,
+          "rgb": [
+            28.0,
+            24.0,
+            38.0
+          ],
+          "lab": [
+            17.5,
+            12.5,
+            -17.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "white",
+      "png_code": [
+        255,
+        255,
+        255
+      ],
+      "native_rgb": [
+        255,
+        255,
+        255
+      ],
+      "lab": [
+        89.5,
+        3.75,
+        -5.0
+      ],
+      "oklab": [
+        0.9113,
+        0.0108,
+        -0.0133
+      ],
+      "spread_de00": 3.422,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 1,
+          "rgb": [
+            171.0,
+            171.0,
+            171.0
+          ],
+          "lab": [
+            90.69,
+            5.0,
+            -5.0
+          ],
+          "mad_rgb": [
+            3.0,
+            3.0,
+            3.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 1,
+          "rgb": [
+            165.0,
+            165.0,
+            165.0
+          ],
+          "lab": [
+            88.31,
+            2.5,
+            -5.0
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "green",
+      "png_code": [
+        0,
+        255,
+        0
+      ],
+      "native_rgb": [
+        0,
+        255,
+        0
+      ],
+      "lab": [
+        47.55,
+        -17.5,
+        -1.25
+      ],
+      "oklab": [
+        0.5425,
+        -0.0509,
+        -0.0029
+      ],
+      "spread_de00": 10.083,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 2,
+          "rgb": [
+            46.0,
+            86.0,
+            65.0
+          ],
+          "lab": [
+            43.682,
+            -20.0,
+            2.5
+          ],
+          "mad_rgb": [
+            2.0,
+            2.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 2,
+          "rgb": [
+            65.0,
+            98.0,
+            86.0
+          ],
+          "lab": [
+            51.417,
+            -15.0,
+            -5.0
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "blue",
+      "png_code": [
+        0,
+        0,
+        255
+      ],
+      "native_rgb": [
+        0,
+        0,
+        255
+      ],
+      "lab": [
+        36.838,
+        15.0,
+        -46.25
+      ],
+      "oklab": [
+        0.4688,
+        0.0106,
+        -0.1298
+      ],
+      "spread_de00": 1.352,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 3,
+          "rgb": [
+            51.0,
+            55.0,
+            94.0
+          ],
+          "lab": [
+            36.541,
+            15.0,
+            -45.0
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 3,
+          "rgb": [
+            50.0,
+            55.0,
+            96.0
+          ],
+          "lab": [
+            37.136,
+            15.0,
+            -47.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "red",
+      "png_code": [
+        255,
+        0,
+        0
+      ],
+      "native_rgb": [
+        255,
+        0,
+        0
+      ],
+      "lab": [
+        49.632,
+        42.5,
+        23.75
+      ],
+      "oklab": [
+        0.5773,
+        0.1231,
+        0.0557
+      ],
+      "spread_de00": 5.964,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 4,
+          "rgb": [
+            136.0,
+            72.0,
+            72.0
+          ],
+          "lab": [
+            52.012,
+            40.0,
+            20.0
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 4,
+          "rgb": [
+            131.0,
+            61.0,
+            60.0
+          ],
+          "lab": [
+            47.252,
+            45.0,
+            27.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "name": "yellow",
+      "png_code": [
+        255,
+        255,
+        0
+      ],
+      "native_rgb": [
+        255,
+        255,
+        0
+      ],
+      "lab": [
+        81.764,
+        -1.25,
+        85.0
+      ],
+      "oklab": [
+        0.8366,
+        -0.0285,
+        0.176
+      ],
+      "spread_de00": 1.708,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 5,
+          "rgb": [
+            173.0,
+            156.0,
+            66.0
+          ],
+          "lab": [
+            81.764,
+            0.0,
+            82.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 5,
+          "rgb": [
+            172.0,
+            156.0,
+            61.0
+          ],
+          "lab": [
+            81.764,
+            -2.5,
+            87.5
+          ],
+          "mad_rgb": [
+            3.0,
+            3.0,
+            2.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "name": "orange",
+      "png_code": [
+        255,
+        109,
+        0
+      ],
+      "native_rgb": [
+        255,
+        128,
+        0
+      ],
+      "lab": [
+        60.046,
+        27.5,
+        26.25
+      ],
+      "oklab": [
+        0.6618,
+        0.0767,
+        0.0632
+      ],
+      "spread_de00": 5.071,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 6,
+          "rgb": [
+            142.0,
+            94.0,
+            76.0
+          ],
+          "lab": [
+            58.558,
+            27.5,
+            30.0
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 6,
+          "rgb": [
+            145.0,
+            101.0,
+            88.0
+          ],
+          "lab": [
+            61.533,
+            27.5,
+            22.5
+          ],
+          "mad_rgb": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "name": "clean",
+      "png_code": null,
+      "native_rgb": [
+        220,
+        180,
+        200
+      ],
+      "lab": [
+        68.673,
+        -13.75,
+        77.5
+      ],
+      "oklab": [
+        0.7206,
+        -0.0615,
+        0.1583
+      ],
+      "spread_de00": 24.874,
+      "samples": [
+        {
+          "chart": "A",
+          "slot": 7,
+          "rgb": [
+            89.0,
+            112.0,
+            40.0
+          ],
+          "lab": [
+            56.178,
+            -22.5,
+            57.5
+          ],
+          "mad_rgb": [
+            3.0,
+            2.0,
+            1.0
+          ]
+        },
+        {
+          "chart": "B",
+          "slot": 7,
+          "rgb": [
+            169.0,
+            157.0,
+            46.0
+          ],
+          "lab": [
+            81.169,
+            -5.0,
+            97.5
+          ],
+          "mad_rgb": [
+            3.0,
+            3.0,
+            2.0
+          ]
+        }
+      ]
+    }
+  ],
+  "measurement": {
+    "mode": "combined-scan",
+    "profiles": [
+      "/Users/ben/Documents/inkyframe/build/scanner.icc"
+    ],
+    "scans": [
+      "scans/Chart A + IT8.tiff",
+      "scans/Chart B + IT8.tiff"
+    ],
+    "sample_frac": 0.35,
+    "active_areas": {
+      "A": [
+        0,
+        0,
+        3849,
+        2333
+      ],
+      "B": [
+        0,
+        0,
+        3833,
+        2340
+      ]
+    },
+    "warnings": [],
+    "rotated_180_detected": false
+  },
+  "sanity_issues": [
+    "chart A: brightest probe channel exceeds profile training data by 73 (R); profile is extrapolating",
+    "chart B: brightest probe channel exceeds profile training data by 72 (R); profile is extrapolating"
+  ],
+  "decisions": {
+    "clean_adopted": false,
+    "reasons": [
+      "clean spread dE00 24.9 exceeds limit 8.0"
+    ],
+    "clean_nearest_other_de00": 12.05
+  }
+}
