@@ -1,5 +1,8 @@
 # InkyFrame 7.3 Gallery - Image Display Pipeline
 
+> [!CAUTION]
+> This is pure AI slop. Don't expect it to centre faces very well.
+
 This repository contains the minimal code needed to display images on the Pimoroni Inky Frame 7.3" Gallery (7-color e-ink) display.
 
 ## Repository Structure
